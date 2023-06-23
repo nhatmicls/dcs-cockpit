@@ -63,7 +63,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GZPZWSHE
 
 [Document2]
 DocumentPath=01_Power_Diagram.SchDoc
@@ -80,7 +80,27 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MOWFQRAI
+
+[Parameter1]
+Name=Revision
+Value=1
+
+[Parameter2]
+Name=Project
+Value=Power control device
+
+[Parameter3]
+Name=DateApprover
+Value=Jun, 23
+
+[Parameter4]
+Name=CheckedBy
+Value=Micls
+
+[Parameter5]
+Name=Approver
+Value=Micls
 
 [Configuration1]
 Name=Sources

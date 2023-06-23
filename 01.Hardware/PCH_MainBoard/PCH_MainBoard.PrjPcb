@@ -82,6 +82,26 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOWFQRAI
 
+[Parameter1]
+Name=CheckedBy
+Value=Micls
+
+[Parameter2]
+Name=Revision
+Value=1
+
+[Parameter3]
+Name=Project
+Value=Power control device
+
+[Parameter4]
+Name=DateApprover
+Value=Jun, 23
+
+[Parameter5]
+Name=Approver
+Value=Micls
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

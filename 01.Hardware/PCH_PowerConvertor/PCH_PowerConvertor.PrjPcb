@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KBKOQDIM
 
 [Document3]
-DocumentPath=02_Power_Transform_220_24V.SchDoc
+DocumentPath=02_Transform_AC_DC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,11 +168,27 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
+Name=Revision
+Value=1
+
+[Parameter2]
+Name=Project
+Value=Power control device
+
+[Parameter3]
+Name=DrawnBy
+Value=Micls
+
+[Parameter4]
+Name=DateApprover
+Value=Jun, 23
+
+[Parameter5]
 Name=CheckedBy
 Value=Micls
 
-[Parameter2]
-Name=DrawnBy
+[Parameter6]
+Name=Approver
 Value=Micls
 
 [Configuration1]
