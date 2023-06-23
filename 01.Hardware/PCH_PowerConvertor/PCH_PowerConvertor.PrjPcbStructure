@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=00_Block_Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=00_Block_Diagram.SchDoc|FileName=01_Power_Diagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=00_Block_Diagram.SchDoc|FileName=02_Power_Transform_220_24V.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=00_Block_Diagram.SchDoc|FileName=03_Power_Buck_24V_3.3V.SchDoc|SheetNumber=4
