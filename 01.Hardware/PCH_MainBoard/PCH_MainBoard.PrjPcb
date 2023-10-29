@@ -287,24 +287,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Approver
-Value=Micls
+Name=Revision
+Value=1
 
 [Parameter2]
-Name=CheckedBy
-Value=Micls
+Name=Project
+Value=Generic Mainboard
 
 [Parameter3]
 Name=DateApprover
 Value=Jun, 23
 
 [Parameter4]
-Name=Project
-Value=Power control device
+Name=CheckedBy
+Value=Micls
 
 [Parameter5]
-Name=Revision
-Value=1
+Name=Approver
+Value=Micls
 
 [Configuration1]
 Name=Sources
