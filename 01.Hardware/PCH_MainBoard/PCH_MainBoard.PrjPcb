@@ -49,6 +49,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PCH_MainBoard.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EFIHJVDZ
+
+[Document2]
 DocumentPath=00_Block_Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -65,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZPZWSHE
 
-[Document2]
+[Document3]
 DocumentPath=00_Power_Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOWFQRAI
 
-[Document3]
+[Document4]
 DocumentPath=00_PCH_MainBoard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESZPWJVM
 
-[Document4]
+[Document5]
 DocumentPath=01_MCU_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUKVKEBA
 
-[Document5]
+[Document6]
 DocumentPath=02_IO_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJMIBEWX
 
-[Document6]
+[Document7]
 DocumentPath=03_External_Storage_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YOAZXNAC
 
-[Document7]
+[Document8]
 DocumentPath=04_External_RAM_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWNIGLMK
 
-[Document8]
+[Document9]
 DocumentPath=05_Wifi_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOIXCWRG
 
-[Document9]
+[Document10]
 DocumentPath=06_Ethernet_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYKKLTPO
 
-[Document10]
+[Document11]
 DocumentPath=07_USB_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNCHXHGT
 
-[Document11]
+[Document12]
 DocumentPath=08_CAN_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWZJOQQT
 
-[Document12]
+[Document13]
 DocumentPath=09_Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCBFKBMJ
 
-[Document13]
+[Document14]
 DocumentPath=PCH_Mainboard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJCXYESD
 
-[Document14]
+[Document15]
 DocumentPath=PCH_MainBoard.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,24 +304,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Revision
-Value=1
+Name=Approver
+Value=Micls
 
 [Parameter2]
-Name=Project
-Value=Generic Mainboard
+Name=CheckedBy
+Value=Micls
 
 [Parameter3]
 Name=DateApprover
 Value=Jun, 23
 
 [Parameter4]
-Name=CheckedBy
-Value=Micls
+Name=Project
+Value=Generic Mainboard
 
 [Parameter5]
-Name=Approver
-Value=Micls
+Name=Revision
+Value=1
 
 [Configuration1]
 Name=Sources
