@@ -303,6 +303,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCH_MainBoard\Design Rule Check - PCH_Mainboard.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Approver
 Value=Micls
@@ -508,48 +512,42 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=PCBDrawing
-OutputName9=Draftsman
+OutputType9=PCBLIB Print
+OutputName9=PCBLIB Prints
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType10=PCBLIB Print
-OutputName10=PCBLIB Prints
+OutputType10=PDF3D
+OutputName10=PDF3D
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=PDF3D
-OutputName11=PDF3D
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=PDF3D MBA
-OutputName12=PDF3D MBA
+OutputType12=Report Print
+OutputName12=Report Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType13=Report Print
-OutputName13=Report Prints
+OutputType13=Schematic Print
+OutputName13=Schematic Prints
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType14=Schematic Print
-OutputName14=Schematic Prints
+OutputType14=SimView Print
+OutputName14=SimView Prints
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType15=SimView Print
-OutputName15=SimView Prints
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1050,16 +1048,6 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
-Type121=1
-Type122=1
-Type123=1
-Type124=1
-Type125=1
-Type126=1
-Type127=1
-Type128=1
-Type129=1
-Type130=1
 
 [Difference Levels]
 Type1=1
@@ -1130,12 +1118,6 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
-Type69=1
-Type70=1
-Type71=1
-Type72=1
-Type73=1
-Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1264,30 +1246,6 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
-Type128=2
-Type129=2
-Type130=2
-Type131=2
-Type132=2
-Type133=2
-Type134=2
-Type135=2
-Type136=2
-Type137=2
-Type138=1
-Type139=1
-Type140=1
-Type141=1
-Type142=1
-Type143=1
-Type144=1
-Type145=1
-Type146=1
-Type147=2
-Type148=2
-Type149=2
-Type150=2
-Type151=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1448,13 +1406,13 @@ Net17=NetName=NetP3_2|NetColor=$00FF6E6E
 Net18=NetName=NetP3_3|NetColor=$00FF6E6E
 Net19=NetName=NetP3_4|NetColor=$00FF6E6E
 Net20=NetName=NetP3_5|NetColor=$00FF6E6E
-Net21=NetName=NetU1_100|NetColor=$0000BE00
+Net21=NetName=NetU1_100|NetColor=$0032C2F1
 Net22=NetName=NetU1_104|NetColor=$00FFFF6E
 Net23=NetName=NetU1_105|NetColor=$00FFFF6E
-Net24=NetName=NetU1_106|NetColor=$0000BE00
-Net25=NetName=NetU1_107|NetColor=$0000BE00
-Net26=NetName=NetU1_108|NetColor=$0000BE00
-Net27=NetName=NetU1_109|NetColor=$0000BE00
+Net24=NetName=NetU1_106|NetColor=$0032C2F1
+Net25=NetName=NetU1_107|NetColor=$0032C2F1
+Net26=NetName=NetU1_108|NetColor=$0032C2F1
+Net27=NetName=NetU1_109|NetColor=$0032C2F1
 Net28=NetName=NetU1_124|NetColor=$00FF6E6E
 Net29=NetName=NetU1_137|NetColor=$00FF6E6E
 Net30=NetName=NetU1_138|NetColor=$00FF6E6E
@@ -1462,24 +1420,24 @@ Net31=NetName=NetU1_142|NetColor=$00FFFF6E
 Net32=NetName=NetU1_143|NetColor=$00FFFF6E
 Net33=NetName=NetU1_154|NetColor=$00FF6EFF
 Net34=NetName=NetU1_157|NetColor=$00FF6EFF
-Net35=NetName=NetU1_16|NetColor=$0000BE00
+Net35=NetName=NetU1_16|NetColor=$0032C2F1
 Net36=NetName=NetU1_161|NetColor=$00FF6E6E
-Net37=NetName=NetU1_17|NetColor=$0000BE00
-Net38=NetName=NetU1_18|NetColor=$0000BE00
-Net39=NetName=NetU1_19|NetColor=$0000BE00
-Net40=NetName=NetU1_20|NetColor=$0000BE00
-Net41=NetName=NetU1_21|NetColor=$0000BE00
+Net37=NetName=NetU1_17|NetColor=$0032C2F1
+Net38=NetName=NetU1_18|NetColor=$0032C2F1
+Net39=NetName=NetU1_19|NetColor=$0032C2F1
+Net40=NetName=NetU1_20|NetColor=$0032C2F1
+Net41=NetName=NetU1_21|NetColor=$0032C2F1
 Net42=NetName=NetU1_33|NetColor=$00FF6EFF
 Net43=NetName=NetU1_42|NetColor=$00FF6EFF
 Net44=NetName=NetU1_53|NetColor=$00FF6EFF
 Net45=NetName=NetU1_54|NetColor=$00FF6EFF
 Net46=NetName=NetU1_55|NetColor=$00FF6EFF
-Net47=NetName=NetU1_60|NetColor=$0000BE00
-Net48=NetName=NetU1_63|NetColor=$0000BE00
-Net49=NetName=NetU1_64|NetColor=$0000BE00
-Net50=NetName=NetU1_65|NetColor=$0000BE00
-Net51=NetName=NetU1_66|NetColor=$0000BE00
-Net52=NetName=NetU1_67|NetColor=$0000BE00
+Net47=NetName=NetU1_60|NetColor=$0032C2F1
+Net48=NetName=NetU1_63|NetColor=$0032C2F1
+Net49=NetName=NetU1_64|NetColor=$0032C2F1
+Net50=NetName=NetU1_65|NetColor=$0032C2F1
+Net51=NetName=NetU1_66|NetColor=$0032C2F1
+Net52=NetName=NetU1_67|NetColor=$0032C2F1
 Net53=NetName=NetU1_68|NetColor=$00FFFF6E
 Net54=NetName=NetU1_69|NetColor=$00FFFF6E
 Net55=NetName=NetU1_70|NetColor=$00FFFF6E
@@ -1493,26 +1451,26 @@ Net62=NetName=NetU1_92|NetColor=$00FF6EFF
 Net63=NetName=NetU1_96|NetColor=$00FFFF6E
 Net64=NetName=NetU1_97|NetColor=$00FFFF6E
 Net65=NetName=NetU1_98|NetColor=$00FFFF6E
-Net66=NetName=NetU1_99|NetColor=$0000BE00
-Net67=NetName=NetU4_1|NetColor=$0000BE00
+Net66=NetName=NetU1_99|NetColor=$0032C2F1
+Net67=NetName=NetU4_1|NetColor=$0032C2F1
 Net68=NetName=NetU4_10|NetColor=$00FFFF6E
 Net69=NetName=NetU4_13|NetColor=$00FFFF6E
 Net70=NetName=NetU4_14|NetColor=$00FFFF6E
 Net71=NetName=NetU4_15|NetColor=$00FFFF6E
 Net72=NetName=NetU4_16|NetColor=$00FFFF6E
-Net73=NetName=NetU4_18|NetColor=$0000BE00
-Net74=NetName=NetU4_19|NetColor=$0000BE00
-Net75=NetName=NetU4_2|NetColor=$0000BE00
-Net76=NetName=NetU4_20|NetColor=$0000BE00
-Net77=NetName=NetU4_21|NetColor=$0000BE00
-Net78=NetName=NetU4_22|NetColor=$0000BE00
-Net79=NetName=NetU4_23|NetColor=$0000BE00
-Net80=NetName=NetU4_24|NetColor=$0000BE00
-Net81=NetName=NetU4_25|NetColor=$0000BE00
-Net82=NetName=NetU4_26|NetColor=$0000BE00
-Net83=NetName=NetU4_27|NetColor=$0000BE00
+Net73=NetName=NetU4_18|NetColor=$0032C2F1
+Net74=NetName=NetU4_19|NetColor=$0032C2F1
+Net75=NetName=NetU4_2|NetColor=$0032C2F1
+Net76=NetName=NetU4_20|NetColor=$0032C2F1
+Net77=NetName=NetU4_21|NetColor=$0032C2F1
+Net78=NetName=NetU4_22|NetColor=$0032C2F1
+Net79=NetName=NetU4_23|NetColor=$0032C2F1
+Net80=NetName=NetU4_24|NetColor=$0032C2F1
+Net81=NetName=NetU4_25|NetColor=$0032C2F1
+Net82=NetName=NetU4_26|NetColor=$0032C2F1
+Net83=NetName=NetU4_27|NetColor=$0032C2F1
 Net84=NetName=NetU4_29|NetColor=$00FFFF6E
-Net85=NetName=NetU4_3|NetColor=$0000BE00
+Net85=NetName=NetU4_3|NetColor=$0032C2F1
 Net86=NetName=NetU4_30|NetColor=$00FFFF6E
 Net87=NetName=NetU4_31|NetColor=$00FFFF6E
 Net88=NetName=NetU4_32|NetColor=$00FFFF6E
@@ -1520,11 +1478,11 @@ Net89=NetName=NetU4_35|NetColor=$00FFFF6E
 Net90=NetName=NetU4_36|NetColor=$00FFFF6E
 Net91=NetName=NetU4_37|NetColor=$00FFFF6E
 Net92=NetName=NetU4_38|NetColor=$00FFFF6E
-Net93=NetName=NetU4_4|NetColor=$0000BE00
-Net94=NetName=NetU4_42|NetColor=$0000BE00
-Net95=NetName=NetU4_43|NetColor=$0000BE00
-Net96=NetName=NetU4_44|NetColor=$0000BE00
-Net97=NetName=NetU4_5|NetColor=$0000BE00
+Net93=NetName=NetU4_4|NetColor=$0032C2F1
+Net94=NetName=NetU4_42|NetColor=$0032C2F1
+Net95=NetName=NetU4_43|NetColor=$0032C2F1
+Net96=NetName=NetU4_44|NetColor=$0032C2F1
+Net97=NetName=NetU4_5|NetColor=$0032C2F1
 Net98=NetName=NetU4_7|NetColor=$00FFFF6E
 Net99=NetName=NetU4_8|NetColor=$00FFFF6E
 Net100=NetName=NetU4_9|NetColor=$00FFFF6E
@@ -1541,24 +1499,24 @@ Net110=NetName=NetU8_11|NetColor=$00FF6E6E
 Net111=NetName=NetU8_12|NetColor=$00FF6E6E
 Net112=NetName=NetU8_6|NetColor=$00FF6E6E
 Net113=NetName=NetU8_7|NetColor=$00FF6E6E
-Net114=NetName=RAM_A0|NetColor=$0000BE00
-Net115=NetName=RAM_A1|NetColor=$0000BE00
-Net116=NetName=RAM_A10|NetColor=$0000BE00
-Net117=NetName=RAM_A11|NetColor=$0000BE00
-Net118=NetName=RAM_A12|NetColor=$0000BE00
-Net119=NetName=RAM_A13|NetColor=$0000BE00
-Net120=NetName=RAM_A14|NetColor=$0000BE00
-Net121=NetName=RAM_A15|NetColor=$0000BE00
-Net122=NetName=RAM_A16|NetColor=$0000BE00
-Net123=NetName=RAM_A17|NetColor=$0000BE00
-Net124=NetName=RAM_A2|NetColor=$0000BE00
-Net125=NetName=RAM_A3|NetColor=$0000BE00
-Net126=NetName=RAM_A4|NetColor=$0000BE00
-Net127=NetName=RAM_A5|NetColor=$0000BE00
-Net128=NetName=RAM_A6|NetColor=$0000BE00
-Net129=NetName=RAM_A7|NetColor=$0000BE00
-Net130=NetName=RAM_A8|NetColor=$0000BE00
-Net131=NetName=RAM_A9|NetColor=$0000BE00
+Net114=NetName=RAM_A0|NetColor=$0032C2F1
+Net115=NetName=RAM_A1|NetColor=$0032C2F1
+Net116=NetName=RAM_A10|NetColor=$0032C2F1
+Net117=NetName=RAM_A11|NetColor=$0032C2F1
+Net118=NetName=RAM_A12|NetColor=$0032C2F1
+Net119=NetName=RAM_A13|NetColor=$0032C2F1
+Net120=NetName=RAM_A14|NetColor=$0032C2F1
+Net121=NetName=RAM_A15|NetColor=$0032C2F1
+Net122=NetName=RAM_A16|NetColor=$0032C2F1
+Net123=NetName=RAM_A17|NetColor=$0032C2F1
+Net124=NetName=RAM_A2|NetColor=$0032C2F1
+Net125=NetName=RAM_A3|NetColor=$0032C2F1
+Net126=NetName=RAM_A4|NetColor=$0032C2F1
+Net127=NetName=RAM_A5|NetColor=$0032C2F1
+Net128=NetName=RAM_A6|NetColor=$0032C2F1
+Net129=NetName=RAM_A7|NetColor=$0032C2F1
+Net130=NetName=RAM_A8|NetColor=$0032C2F1
+Net131=NetName=RAM_A9|NetColor=$0032C2F1
 Net132=NetName=RAM_D0|NetColor=$00FFFF6E
 Net133=NetName=RAM_D1|NetColor=$00FFFF6E
 Net134=NetName=RAM_D10|NetColor=$00FFFF6E
