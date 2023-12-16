@@ -1,0 +1,15 @@
+%FSTAX23Y23*%
+%MOIN*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD161C,0.001000*%
+%LNpch_mainboard-1*%
+%LPD*%
+G54D161*
+X0Y0D02*
+Y05635D01*
+X0398*
+Y0*
+X0*
+M02*
